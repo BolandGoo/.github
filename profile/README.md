@@ -42,5 +42,5 @@ Here’s how you can help:
 ## 📫 Contact Us
 
 For questions, feedback, or collaboration opportunities, reach out to us:  
-- **Email**: [bolandgoo@yourdomain.com]()  
+- **Email**: [bolandgooteam@gmail.com](mailto:bolandgooteam@gmail.com)  
 - **Website**: [www.bolandgoo.com]()  
